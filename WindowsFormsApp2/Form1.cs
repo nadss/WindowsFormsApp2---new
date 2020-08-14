@@ -16,5 +16,12 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int x = 9;
+            int y = 7;
+            int sum = x + y;
+        }
     }
 }
