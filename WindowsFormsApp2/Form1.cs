@@ -23,5 +23,10 @@ namespace WindowsFormsApp2
             int y = 7;
             int sum = x + y;
         }
+
+        void method1()
+        {
+            int c = 5;
+        }
     }
 }
