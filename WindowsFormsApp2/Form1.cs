@@ -24,6 +24,8 @@ namespace WindowsFormsApp2
             int sum = x + y;
 
             label1.Text = "master";
+
+            int cc = 9;
         }
 
         void method1()
