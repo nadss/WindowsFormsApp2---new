@@ -22,6 +22,8 @@ namespace WindowsFormsApp2
             int x = 9;
             int y = 7;
             int sum = x + y;
+
+            label1.Text = "branch1";
         }
 
         void method1()
